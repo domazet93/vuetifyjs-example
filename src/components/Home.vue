@@ -3,7 +3,7 @@
   <main>
   <v-sidebar id="sidebar" class="white" >
     <h2 >Users</h2>
-    <p>{{credentials.name}}</p>
+    <p>{{credentials.name}} {{credentials.surname}}</p>
   </v-sidebar>
     <v-container class="text-xs-center">
 

@@ -19,5 +19,3 @@ npm run dev
 # build for production with minification
 npm run build
 ```
-## Preview
-[vuetify-example](https://i.imgsafe.org/ad3658f06e.png)

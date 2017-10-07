@@ -59,7 +59,7 @@
             <v-flex xs12>
               <h4>Black Blob</h4>
             </v-flex>  
-                <v-flex xs12><p>17th avenue / Zagreb 10000</p></v-flex>
+                <v-flex xs12><p>17th avenue / Dublin</p></v-flex>
                 <v-flex xs12><p>info@blackblob.com</p></v-flex>
                 <v-flex xs12><p>© 2017 Black Blob</p></v-flex>
              
